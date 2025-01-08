@@ -1,4 +1,4 @@
 # jq-ui-15
-JQ-UI-50
+JQ-UI-15
 
 Preview: 
